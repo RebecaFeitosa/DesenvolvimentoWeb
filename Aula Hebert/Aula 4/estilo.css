@@ -1,0 +1,19 @@
+body{
+    font-family:arial;
+}
+h2{
+    color:green;
+}
+h1{    /* se tem um css inline na aula4_1.html, não da pra alterar no arquivo externo*/
+    color:yellow;
+}
+#s3{
+    color:blueviolet;
+}
+.fundo{
+    background-color:coral;
+}
+.textoverde{
+    color:green;
+}
+/* o nome da classe tem a ver com oq vc vai mudar*/
